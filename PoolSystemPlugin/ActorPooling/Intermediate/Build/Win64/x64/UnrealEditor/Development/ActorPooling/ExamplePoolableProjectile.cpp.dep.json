@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\private\\examplepoolableprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\intermediate\\build\\win64\\x64\\poolsystemdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actorpooling\\definitions.actorpooling.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\examplepoolableprojectile.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\poolableactorinterface.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\poolableactorinterface.generated.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\pooledprojectileinterface.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\pooledprojectileinterface.generated.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\examplepoolableprojectile.generated.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\poolablecomponent.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\poolablecomponent.generated.h",
+            "f:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "f:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "f:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "f:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "f:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "f:\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "f:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "f:\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

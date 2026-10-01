@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActorPooling.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Intermediate/Build/Win64/x64/PoolSystemDemoEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/Module.ActorPooling.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/ActorPoolingModule.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/ActorPoolSettings.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/ActorPoolSubsystem.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/ExamplePoolableEnemyPawn.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/ExamplePoolableProjectile.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/PoolableComponent.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/PooledProjectileLauncherComponent.cpp.obj"
+"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/Default.rc2.res"
+/OUT:"C:/Users/Ren/Documents/Unreal Projects/PoolSystemDemo/Plugins/ActorPooling/Intermediate/Build/Win64/x64/UnrealEditor/Development/ActorPooling/UnrealEditor-ActorPooling.lib"

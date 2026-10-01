@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ActorPooling.cpp.obj": [
+			"ActorPooling.init.gen.cpp.obj",
+			"ActorPoolSettings.gen.cpp.obj",
+			"ActorPoolSubsystem.gen.cpp.obj",
+			"ExamplePoolableEnemyPawn.gen.cpp.obj",
+			"ExamplePoolableProjectile.gen.cpp.obj",
+			"PoolableActorInterface.gen.cpp.obj",
+			"PoolableComponent.gen.cpp.obj",
+			"PooledProjectileInterface.gen.cpp.obj",
+			"PooledProjectileLauncherComponent.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"ActorPoolingModule.cpp.obj",
+			"ActorPoolSettings.cpp.obj",
+			"ActorPoolSubsystem.cpp.obj",
+			"ExamplePoolableEnemyPawn.cpp.obj",
+			"ExamplePoolableProjectile.cpp.obj",
+			"PoolableComponent.cpp.obj",
+			"PooledProjectileLauncherComponent.cpp.obj"
+		]
+	}
+}

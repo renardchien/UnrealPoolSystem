@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Actor Pooling",
+	"Description": "Generic actor pooling system for reducing spawn/destroy churn and replication cost in multiplayer games. Poolable via a Blueprint-implementable interface; supports recyclable and non-recyclable pools, per-class size overrides, and a helper component for non-replicated client-side cosmetic actors (e.g. projectiles).",
+	"Category": "Gameplay",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ActorPooling",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

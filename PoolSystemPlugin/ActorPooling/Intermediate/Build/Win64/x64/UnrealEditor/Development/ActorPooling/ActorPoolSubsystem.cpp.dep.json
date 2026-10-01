@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\private\\actorpoolsubsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\intermediate\\build\\win64\\x64\\poolsystemdemoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actorpooling\\definitions.actorpooling.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\actorpoolsubsystem.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\actorpoolsettings.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\actorpoolsettings.generated.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\actorpoolsubsystem.generated.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\source\\actorpooling\\public\\poolableactorinterface.h",
+            "c:\\users\\ren\\documents\\unreal projects\\poolsystemdemo\\plugins\\actorpooling\\intermediate\\build\\win64\\unrealeditor\\inc\\actorpooling\\uht\\poolableactorinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
